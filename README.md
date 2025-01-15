@@ -7,7 +7,7 @@ A demo for [wlua](https://github.com/hanxi/wlua)
 ## Try in docker
 
 ```bash
-docker run -p 2888:2888 -d hanxi/wlua-demo:master
+docker run -p 2888:2889 -d hanxi/wlua-demo:master
 ```
 
 See website in browser <http://localhost:2888> .
